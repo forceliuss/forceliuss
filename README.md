@@ -4,7 +4,7 @@ Hi 👋 My name is Alberto Forcelius
 Data Analyst
 ------------
 
-Passionate about data engineering and data structures. I'm a hydraulic engineer master student that works as a data analyst freelancer.
+Passionate about data engineering and data structures. I'm a hydraulic engineer master student who works as a data analyst freelancer.
 
 * 🌍  I'm based in Porto, Portugal
 * 🖥️  See my portfolio at [Personal Projects](http://https://forceliuss.notion.site/Alberto-Forcelius-46e7a1a80dd1480fb6c79a2df480e9e8?pvs=4)
@@ -12,7 +12,7 @@ Passionate about data engineering and data structures. I'm a hydraulic engineer 
 * 🚀  I'm currently working on [Renewable Integration Analysis](http://https://github.com/forceliuss/renewable_integration)
 * 🧠  I'm learning Pytorch
 * 🤝  I'm open to collaborating on data analysis projects
-* ⚡  I love to build and develop arduino prototypes
+* ⚡  I love to build and develop Arduino prototypes
 
 ### Skills
 
@@ -25,9 +25,3 @@ Passionate about data engineering and data structures. I'm a hydraulic engineer 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/forceliuss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/forceliuss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@forceliuss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/forceliuss"><img src="https://github-readme-stats.vercel.app/api?username=forceliuss&show_icons=true&hide=issues,contribs&title_color=0f172a&text_color=64748b&icon_color=444e59&bg_color=ffffff&hide_border=true&show_icons=true" alt="forceliuss's GitHub stats" /></a>
