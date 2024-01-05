@@ -7,7 +7,7 @@ Data Analyst
 Passionate about data engineering and data structures. I'm a hydraulic engineer master student who works as a data analyst freelancer.
 
 * 🌍  I'm based in Porto, Portugal
-* 🖥️  See my portfolio at [Personal Projects](http://https://forceliuss.notion.site/Alberto-Forcelius-46e7a1a80dd1480fb6c79a2df480e9e8?pvs=4)
+* 🖥️  See my portfolio at [Personal Projects](https://forceliuss.notion.site/Alberto-Forcelius-46e7a1a80dd1480fb6c79a2df480e9e8)
 * ✉️  You can contact me at [forcelius99@gmail.com](mailto:forcelius99@gmail.com)
 * 🚀  I'm currently working on [Renewable Integration Analysis](http://https://github.com/forceliuss/renewable_integration)
 * 🧠  I'm learning Pytorch
