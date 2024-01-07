@@ -4,15 +4,15 @@ Hi 👋 My name is Alberto Forcelius
 Data Analyst
 ------------
 
-Passionate about data engineering and data structures. I'm a hydraulic engineer master student who works as a data analyst freelancer.
+Passionate about data engineering and data structures. I'm a hydraulic engineering master's student working as a freelancer data analyst.
 
 * 🌍  I'm based in Porto, Portugal
 * 🖥️  See my portfolio at [Personal Projects](https://forceliuss.notion.site)
 * ✉️  You can contact me at [forcelius99@gmail.com](mailto:forcelius99@gmail.com)
 * 🚀  I'm currently working on [Renewable Integration Analysis](http://https://github.com/forceliuss/renewable_integration)
-* 🧠  I'm learning Pytorch
+* 🧠  I'm learning Neural Networks
 * 🤝  I'm open to collaborating on data analysis projects
-* ⚡  I love to build and develop Arduino prototypes
+* ⚡  I love to build and develop data projects about the renewable energy future
 
 ### Skills
 
