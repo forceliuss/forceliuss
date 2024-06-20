@@ -4,15 +4,14 @@ Hi 👋 My name is Alberto Forcelius
 Data Analyst | Data Engineer | Product Manager
 ------------------------------------
 
-Passionate about data engineering and data structures. I have a master's in hydraulic engineering.
+Data Engineer Junior, with experience in Python, SQL, tools for data visualization, and database integrations.
 
 * 🌍  I'm based in Porto, Portugal
 * 🖥️  See my portfolio at [Personal Projects](https://forceliuss.notion.site)
 * ✉️  You can contact me at [alberto@zeratus.com](mailto:forcelius99@gmail.com)
-* 🚀  I'm currently working on [Renewable Integration Analysis](http://https://github.com/forceliuss/renewable_integration)
+* 🚀  I'm currently working on Medical Data Visualization
 * 🧠  I'm learning Neural Networks
-* 🤝  I'm open to collaborating on data analysis projects
-* ⚡  I love to build and develop data projects about the renewable energy future
+* 🤝  I'm open to collaborating on data engineering projects
 
 ### Skills
 
