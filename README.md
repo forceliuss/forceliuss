@@ -7,11 +7,11 @@ Data Analyst | Data Engineer | Product Manager
 Data Engineer Junior, with experience in Python, SQL, tools for data visualization, and database integrations.
 
 * 🌍  I'm based in Porto, Portugal
-* 🖥️  See my portfolio at [Personal Projects](https://forceliuss.notion.site)
-* ✉️  You can contact me at [alberto@zeratus.com](mailto:forcelius99@gmail.com)
+* 🖥️  See my past Projects at [Personal Projects](https://forceliuss.notion.site)
 * 🚀  I'm currently working on Medical Data Visualization
 * 🧠  I'm learning Neural Networks
 * 🤝  I'm open to collaborating on data engineering projects
+* * ✉️  You can contact me at [alberto@zeratus.com](mailto:alberto@zeratus.com)
 
 ### Skills
 
