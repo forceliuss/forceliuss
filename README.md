@@ -1,15 +1,14 @@
 Hi 👋 My name is Alberto Forcelius
 ==================================
 
-Data Analyst | Data Engineer | Product Manager
+Data Engineer | Product Manager
 ------------------------------------
 
-Junior Data Engineer, with experience in Python, SQL, tools for data visualization, and database integrations.
+Junior Data Engineer with experience in Python, SQL, tools for data visualization, and database integrations.
 
 * 🌍  I'm based in Porto, Portugal
 * 🖥️  See my past Projects at [Personal Projects](https://forceliuss.notion.site)
-* 🚀  I'm currently working on Medical Data Visualization Project
-* 🧠  I'm learning Neural Networks and MC
+* 🧠  I'm learning Neural Networks and ML
 * 🤝  I'm open to collaborating on data engineering projects
 * ✉️  You can contact me at [forcelius99@gmail.com.com](mailto:forcelius99@gmail.com)
 
