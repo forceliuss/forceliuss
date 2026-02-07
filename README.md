@@ -1,10 +1,11 @@
-Hi 👋 My name is Alberto Forcelius
 ==================================
-
-Data Engineer | Product Manager
+Python | SQL | Airflow | AWS | dbt | GCP | Docker | PyTorch | Flask
 ------------------------------------
 
-Data Engineer with experience in Python, SQL, tools for data visualization, and database integrations.
+
+Hi 👋 My name is Alberto Forcelius
+
+I’m a Data engineer , with a master in Hydraulic Engineering. I’m specialise in the Healthcare industry, with experience working with PHI data pipelines, and ML model training.
 
 * 🌍  I'm based in Porto, Portugal
 * 🖥️  See my past Projects at [Personal Projects](https://forceliuss.notion.site)
@@ -12,7 +13,6 @@ Data Engineer with experience in Python, SQL, tools for data visualization, and 
 * ✉️  You can contact me at [alberto@forcelius.com](mailto:alberto@forcelius.com)
 
 ### Skills
-
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
