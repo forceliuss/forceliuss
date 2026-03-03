@@ -12,7 +12,7 @@ I’m a Data engineer , with a master in Hydraulic Engineering. I’m specialise
 * 🌍  I'm based in Porto, Portugal
 * 🖥️  Check my weekly newsletter on Substack [NotNull](https://forcelius.substack.com/)
 * 🤝  I'm open to collaborating on data engineering projects
-* ✉️  You can contact me at [alberto@forcelius.com](mailto:alberto@forcelius.com)
+* ✉️  You can contact with me at [alberto@forcelius.com](mailto:alberto@forcelius.com)
 
 ------------------------------------
 ### Skills
